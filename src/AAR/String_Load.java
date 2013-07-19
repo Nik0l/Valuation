@@ -16,7 +16,7 @@ public class String_Load {
 
 	   public static String ReadDoc(String f, List<String> NameList) {
 		   String text = "";
-		   String test = "kaлopиmetp";
+		   String test = "ппппппп";
 		   
 		   try {
 			   FileInputStream file = new FileInputStream(new File("table.xls"));

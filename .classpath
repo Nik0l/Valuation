@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
-	<classpathentry kind="lib" path="/home/niko/workspace/Auto_Marking/poi-3.9.jar"/>
-	<classpathentry kind="lib" path="/home/niko/workspace/Auto_Marking/opencloud.jar"/>
-	<classpathentry kind="lib" path="/home/niko/workspace/Auto_Marking/google-api-spelling-java-1.1.jar"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="C:/Users/Nikolay/git/Valuation/poi-3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nikolay/git/Valuation/opencloud.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nikolay/git/Valuation/google-api-spelling-java-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nikolay/git/Valuation/sqlite-jdbc-3.7.2.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
